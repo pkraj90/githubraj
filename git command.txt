@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "related message"
+3 codes from github - copy & Paste below 3 lines
+git remote add origin https://github.com/pkraj90/githubraj.git
+git branch -M main
+git push -u origin main
